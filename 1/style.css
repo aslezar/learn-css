@@ -5,4 +5,5 @@ p {
 	outline: 5px solid purple;
 	line-height: 1.5;
 	font-family: sans-serif, monospace, cursive, fantasy;
+	cursor: progress;
 }
